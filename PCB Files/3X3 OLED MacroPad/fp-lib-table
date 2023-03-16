@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri "C:/Users/benb1/OneDrive/Documents/GitHub/3X3_OLED_MACRO/PCB Files/lib/footprints.pretty")(options "")(descr ""))
+  (lib (name kicad-footprints)(type KiCad)(uri "C:/Users/benb1/OneDrive/Documents/GitHub/3X3_OLED_MACRO/PCB Files/lib/kicad-footprints")(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri "C:/Users/benb1/OneDrive/Documents/GitHub/3X3_OLED_MACRO/PCB Files/lib/MX_Alps_Hybrid")(options "")(descr ""))
+  (lib (name MX_V2)(type KiCad)(uri "C:/Users/benb1/OneDrive/Documents/GitHub/3X3_OLED_MACRO/PCB Files/lib/MX_V2")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri "C:/Users/benb1/OneDrive/Documents/GitHub/3X3_OLED_MACRO/PCB Files/lib/random-keyboard-parts.pretty")(options "")(descr ""))
+)
