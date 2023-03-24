@@ -10,3 +10,6 @@
 [submodule "PCB Files/lib/Type-C.pretty"]
 	path = PCB Files/lib/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty.git
+[submodule "PCB Files/lib/marbastlib"]
+	path = PCB Files/lib/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
